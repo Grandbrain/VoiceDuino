@@ -32,3 +32,4 @@ There are several ways to contribute to VoiceDuino project:
 * Specify the recognition models.
 * Click "Initialization" to initialize recognition.
 * Click "Begin recognition" to begin recognition.
+
